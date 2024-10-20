@@ -2,9 +2,9 @@
 	"name": "youtubei",
 	"version": "1.6.1",
 	"description": "Simple package to get information from youtube such as videos, playlists, channels, video information & comments, related videos, up next video, and more!",
-	"main": "dist/cjs/index.js",
-	"module": "dist/esm/index.js",
-	"types": "dist/typings/index.d.ts",
+	"main": "cjs/index.js",
+	"module": "esm/index.js",
+	"types": "typings/index.d.ts",
 	"directories": {
 		"test": "test"
 	},
